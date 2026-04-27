@@ -47,15 +47,57 @@ I'm a **Cybersecurity student at the University of Jos (UNIJOS)** and the founde
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peternasarah&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=2D9C5F" />
 </div>
 
+## 🔥 Consistency & Achievements
+
+<div align="center">
+  
+  <!-- GitHub Streak – shows daily consistency -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Peternasarah&theme=dark&background=0D1117&stroke=2D9C5F&ring=2D9C5F&fire=2D9C5F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2D9C5F&sideLabels=AAAAAA&dates=CCCCCC)](https://git.io/streak-stats)
+  
+  <!-- Profile Trophies – celebrates your GitHub achievements -->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Peternasarah&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🗺️ Project Roadmap
+
+- ✅ **Permi v1.0** – PyPI release with basic URL & path scanning  
+- 🔄 **Permi v2.0** – AI-powered false‑positive filtering (in progress)  
+- 📅 **Permi Cloud** – SaaS dashboard for teams (planned Q3 2026)  
+- 📅 **Community Rules Library** – Crowdsourced vulnerability patterns (planned Q4 2026)
+
+## 🔥 What I'm focused on right now
+
+- Launching Permi v2.0 beta with improved AI scoring  
+- Studying for **OSCP** certification  
+- Writing a beginner-friendly guide: "Practical AppSec for Nigerian Devs"
+
+## ☕ Support My Work
+
+If Permi saves you time or helps you ship more secure code, consider supporting me:
+
+<div align="center">
+  
+  [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Peternasarah)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/peternasarah?label=Follow%20%40peternasarah&style=social)](https://twitter.com/peternasarah)
+
+</div>
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📫 Let's Connect
 
-- 🐦 Twitter: [@peternasarah](https://twitter.com/peternasarah)
-- 💼 LinkedIn: [in/peternasarah](https://linkedin.com/in/peternasarah)
-- 📧 Email: dashenasarahpeter@gmail.com
-- 📦 PyPI: [permi](https://pypi.org/project/permi/)
+- 🐦 Twitter: [@peternasarah](https://twitter.com/peternasarah) – I tweet about AppSec and Python  
+- 💼 LinkedIn: [in/peternasarah](https://linkedin.com/in/peternasarah) – professional updates & networking  
+- 📧 Email: dashenasarahpeter@gmail.com – for direct collaboration  
+- 📦 PyPI: [permi](https://pypi.org/project/permi/) – install my tool
 
 ---
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=Peternasarah&label=Profile%20Views&countColor=%232D9C5F" />
+  
+  *Thanks for stopping by! ⭐ Star Permi if you find it useful*
 </div>
