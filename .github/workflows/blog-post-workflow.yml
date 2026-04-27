@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  workflow_dispatch:     # Allows you to run it manually
+permissions:
+  contents: write         # Gives the action permission to edit your README
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # IMPORTANT: Replace the URL below with your own RSS feed URL
+          Dev.to: "https://dev.to/feed/peternasarah"
