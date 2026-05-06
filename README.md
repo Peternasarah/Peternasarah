@@ -85,11 +85,11 @@ If Permi saves you time or helps you ship more secure code, consider supporting 
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Permi v0.2.10: Making Security Scans Portable with JSON and Markdown](https://dev.to/peternasarah/permi-v0210-making-security-scans-portable-with-json-and-markdown-20fa)
+- [The Onslaught: Why Nigeria&#39;s Volume of Cyber Attacks Is Overwhelming Defences](https://dev.to/peternasarah/the-onslaught-why-nigerias-volume-of-cyber-attacks-is-overwhelming-defences-304e)
 - [The Digital Tsunami and the Security Hangover: Nigeria&#39;s First Cybersecurity Challenge](https://dev.to/peternasarah/the-digital-tsunami-and-the-security-hangover-nigerias-first-cybersecurity-challenge-3b2e)
 - [Malware-Based Attacks: The Undying Threat of the Computer Virus](https://dev.to/peternasarah/malware-based-attacks-the-undying-threat-of-the-computer-virus-mhg)
 - [Most security tools still use 20-year-old rules. That&#39;s why I built Permi.](https://dev.to/peternasarah/most-security-tools-still-use-20-year-old-rules-thats-why-i-built-permi-5bj7)
-- [250 Clones in 4 Days! Thank You 🙌](https://dev.to/peternasarah/250-clones-in-4-days-thank-you-cke)
-- [250 Clones in 4 Days: A Student&#39;s Journey Building an AI Security Tool](https://dev.to/peternasarah/250-clones-in-4-days-a-students-journey-building-an-ai-security-tool-1mna)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Let's Connect
