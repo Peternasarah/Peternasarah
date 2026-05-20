@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C5F&center=true&vCenter=true&width=600&lines=Nasarah+Peter+Dashe;Cybersecurity+Student+%26+Founder;Building+AI-Powered+Security+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C5F&center=true&vCenter=true&width=600&lines=Nasarah+Peter+Dashe;Cybersecurity+Student+%26+Founder;Building+Precision+Security+Tools" alt="Typing SVG" />
 </div>
 
 <h1 align="center">👋 Hi there, I'm Nasarah Peter Dashe</h1>
@@ -12,13 +12,13 @@
 
 ## 🛡️ About Me
 
-I'm a **Cybersecurity student at the University of Jos (UNIJOS)** and the founder of **Permi**, an AI-powered vulnerability scanner. My passion lies in building intelligent security tools that developers actually enjoy using—tools that cut through the noise and focus on real threats.
+I'm a **Cybersecurity student at the University of Jos (UNIJOS)** and the founder of **Permi**, a precision vulnerability scanner for developers. My passion lies in building security tools that developers actually enjoy using – tools that cut through the noise and focus on real threats.
 
-- 🔭 I'm currently building **Permi**, an AI-powered vulnerability scanner for Nigerian developers and global SMBs.
-- 🌱 I'm deepening my expertise in **Application Security (AppSec)** and **AI/ML**.
+- 🔭 I'm currently building **Permi**, a vulnerability scanner for Nigerian developers and global SMBs.
+- 🌱 I'm deepening my expertise in **Application Security (AppSec)** and **machine learning**.
 - 👯 I'm open to collaborating on **open-source security tools** that make a difference.
 - 💬 Ask me about **Python security**, **web vulnerabilities**, or anything **Cybersecurity**!
-- ⚡ Fun fact: I built Permi because most security tools still use 20-year-old rules.
+- ⚡ Fun fact: I built Permi because most security tools still use 20‑year‑old rules.
 
 ## 🔧 Technologies & Tools
 
@@ -32,7 +32,7 @@ I'm a **Cybersecurity student at the University of Jos (UNIJOS)** and the founde
 
 ## 🚀 Featured Project: Permi
 
-**Permi** is an AI-powered vulnerability scanner that scans live websites and source code, then uses AI to filter out false positives—so you only see findings that actually matter.
+**Permi** is a vulnerability scanner that scans live websites and source code, then uses intelligent filtering to remove false positives – so you only see findings that actually matter.
 
 **Scan Modes:**
 - `--url` for live web scanning (SQLi, XSS, security headers)
@@ -62,15 +62,15 @@ I'm a **Cybersecurity student at the University of Jos (UNIJOS)** and the founde
 ## 🗺️ Project Roadmap
 
 - ✅ **Permi v1.0** – PyPI release with basic URL & path scanning  
-- 🔄 **Permi v2.0** – AI-powered false‑positive filtering (in progress)  
+- 🔄 **Permi v2.0** – Intelligent false‑positive filtering (in progress)  
 - 📅 **Permi Cloud** – SaaS dashboard for teams (planned Q3 2026)  
 - 📅 **Community Rules Library** – Crowdsourced vulnerability patterns (planned Q4 2026)
 
 ## 🔥 What I'm focused on right now
 
-- Launching Permi v2.0 beta with improved AI scoring  
+- Launching Permi v2.0 beta with improved confidence scoring  
 - Studying for **OSCP** certification  
-- Writing a beginner-friendly guide: "Practical AppSec for Nigerian Devs"
+- Writing a beginner‑friendly guide: "Practical AppSec for Nigerian Devs"
 
 ## ☕ Support My Work
 
